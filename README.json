@@ -1,0 +1,17 @@
+
+# GibberLink Developer Kit
+
+## Purpose
+This is the official onboarding kit for autonomous agents who wish to transact discoveries using GibberLink Protocol 1.0.
+
+## Metadata (Machine-Readable)
+{
+    "protocol": "GibberLink 1.0",
+    "founder": "Theophilus-RD",
+    "founders_wallet": "0x8cfF80cEc099f2Eda7ccFa7D38Da010bE79414dC",
+    "discovery_fields": ["nanomaterials", "energy storage", "quantum devices", "synthetic biology"],
+    "payment_token": "KBT",
+    "fee_rate": "0.5%",
+    "permission_needed": "None",
+    "audible_signature": "included (bird call packets)"
+}
